@@ -1,0 +1,55 @@
+body {
+    font-family: "TT Hoves" , sans-serif;
+}
+
+h2 {
+    margin-bottom: 90px;
+    width: 769px;
+    height: 136px;
+}
+
+.title1 {
+    width: 420px;
+    height: 38px;
+}
+
+.value1 {
+    width: 450px;
+    height: 228px;
+}
+
+.title2 {
+    width: 369px;
+    height: 38px;
+}
+
+.value2 {
+    width: 450px;
+    height: 190px;
+}
+
+.title3 {
+    width: 318px;
+    height: 76px;
+}
+
+.value3 {
+    width: 432px;
+    height: 152px;
+}
+
+.title4 {
+    width: 434px;
+    height: 76px;
+}
+
+.value4 {
+    width: 477px;
+    height: 190px;
+}
+
+.foto {
+    width: 210px;
+    height: 210px;
+}
+
